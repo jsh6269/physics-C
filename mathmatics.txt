@@ -1,0 +1,95 @@
+천문학적인 값 n n
+Sun n n   mass :   1.9910*10^30kg n
+        average radius:    6.96*10^8m n
+        Earth-sun distance (average):    1.496*10^11m n n
+Earth n n   mass:    5.9736*10^24kg n
+         average radius:    6.376*10^6m n
+         orbital period:    3.16*10^7s n n
+Moon n n   mass:    7.35*10^22kg n
+           average radius:    1.74*10^6m n
+          orbital period (average):    2.36*10^6s n
+          Earth-moon distance (average):    3.84*10^8m n n
+finish1
+SI접두사
+10^24 요타 (yotta) Y 자 1,000,000,000,000,000,000,000,000
+10^21 제타 (zetta) Z 십해 1,000,000,000,000,000,000,000
+10^18 엑사 (exa) E 백경 1,000,000,000,000,000,000
+10^15 페타 (peta) P 천조 1,000,000,000,000,000
+10^12 테라 (tera) T 조 1,000,000,000,000
+10^9 기가 (giga) G 십억 1,000,000,000
+10^6 메가 (mega) M 백만 1,000,000
+10^3 킬로 (kilo) k 천 1,000
+10^2 헥토 (hecto) h 백 100
+10^1 데카 (deca) da 십 10
+10^0 x x x 일 1
+10^-1 데시 (deci) d 십분의일 0.1
+10^-2 센티 (centi) c 백분의일 0.01
+10^-3 밀리 (milli) m 천분의일 0.001
+10^-6 마이크로 (micro) μ 백만분의일 0.000001
+10^-9 나노 (nano) n 십억분의일 0.000000001
+10^-12 피코 (pico) p 일조분의일 0.000000000001
+10^-15 펨토 (femto) f 천조분의일 0.000000000000001
+10^-18 아토 (atto) a 백경분의일 0.000000000000000001
+10^-21 젭토 (zepto) z 십해분의일 0.000000000000000000001
+10^-24 욕토 (yocto) y 일자분의일 0.000000000000000000000001
+ n
+피타고라스의 정리 n n
+a^2+b^2=c^2 n
+ n
+물리에서 사용되는 근사 n n
+(1+x)^n = 1+nx  (단, x는 매우 작다.) n
+sinx=tanx=x (단, x는 매우 작다.)
+ n n
+삼각함수 n n
+sin(a)=y/r n
+cos(a)=x/r n
+tan(a)=y/x n
+cot(a)=x/y n
+sec(a)=r/x n
+csc(a)=r/y n
+ n
+삼각함수공식 n n
+sin( x + y )=sin x cos y + cos x sin y n
+sin ( x - y ) = sin  x cos  y  -  cos  x sin  y n
+cos ( x + y ) = cos  x cos  y - sin  x sin  y n
+cos ( x - y ) = cos  x cos  y + sin  x sin  y n
+tan ( x + y ) = (tan  x + tan  y) / (1 - tan x tan y) n
+tan ( x - y ) = (tan  x  - tan y) / (1 + tan x tan y) n
+ n
+그 외 n n
+사인법칙: n n  a / sin  A = b / sin B = c / sin C = 2R n n
+제2코사인법칙: n n c^2 = a^2 + b^2 - 2 a b cos C n
+                    cos C = (a^2 + b^2 - c^2) / 2ab
+ n n
+Double-angle formulae n n
+sin ( 2 x ) = 2 sin x cos x = 2 tan x / 1 + tan 2 x n
+
+cos ( 2 x ) = cos 2 x sin 2 x = 2 cos^ 2 x - 1 = 1 - 2 sin^2 x n
+
+tan ( 2 x ) = 2 tan x / (1 - tan 2 x) n
+
+cot ( 2 x ) = (cot 2 x 1) / 2 cot x n
+
+sec ( 2 x ) = sec^2 x / (2 - sec^2 x) n
+
+csc ( 2 x ) = sec x csc x / 2 n
+ n n
+Triple-angle formulae n n
+sin ( 3 x ) = 3 sin x - 4 sin 3  x n
+
+cos ( 3 x ) = 4 cos 3 x - 3 cos  x n n
+
+else n n
+2 cos x cos y = cos ( x - y ) + cos ( x + y ) n
+2 sin x sin y = cos ( x - y ) - cos ( x + y ) n
+2 sin x cos y = sin ( x + y ) + sin ( x - y ) n
+2 cos x sin y = sin ( x + y ) - sin ( x - y ) n
+sin x +- sin y = 2 sin ( x +- y / 2 ) cos ( x -+ y / 2 ) n
+cos x + cos y = 2 cos ( x + y / 2 ) cos ( x -  y / 2 ) n
+cos x - cos y = 2 sin ( x + y / 2 ) sin ( x - y / 2 ) n
+ n n
+Taylor expression n n
+e^x = 1 + x + x^ 2 / 2 ! + x^ 3 / 3 ! + ...  n
+sinx = x - x^3/3! + x^5/5! + ... n
+cosy = 1 - y^2/2! + y^4/4! - ... n
+finish
